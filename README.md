@@ -3,8 +3,12 @@ DREiVe stands for Discovery of Regulatory Elements in Vertebrates and it was ori
 Husam Hebaishi (based at KCL) is working on improving several aspects of DREiVe.
 
 This directory is organized as follows:
+
 The folder “DREiVe” contains the original source code for DREiVe in Perl
+
 There is a manual available (pdf file) for those interested in using DREiVe
+
 There is a “Future changes” word document which describes some of the anticipated improvements
-There is a directory called “Using Current web-based version of DREiVe”, which describes how to use the web-based version together with recommended parameters to use
+
 Alona’s original unpublished manuscript is also available as a word document should anybody need to refer to it
+
