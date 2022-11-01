@@ -1,0 +1,15 @@
+#
+ # Copyright (C) 2003  Columbia Genome Center
+ # All Rights Reserved.
+ #
+ # splash.property -- properties to be read by splash
+ # Environment variables:
+ # PROPDIRSPLASH - points the the dir of this file (defauld ./).
+ # PROPFILESPLASH - name of the file. (default splash.property).
+ #
+ # $Id: splash.property,v 1.1 2004/03/22 23:22:14 af590 Exp $
+#
+
+
+#the soap port to bind to
+soapport=8040
