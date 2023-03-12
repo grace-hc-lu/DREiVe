@@ -14,5 +14,6 @@ The manual is available (pdf file) for those interested in using DREiVe
 The “Future changes” word document describes some of the anticipated improvements
 
 For citation, please refer to the paper below.
+
 "Computational tools and resources for prediction and analysis of gene regulatory regions in the chick genome."
 Khan, M.A.F et al. Genesis. 2013 May;51(5):311-24. dio: 10.1002/dvg.22375. Epub 2013 Mar 30.
